@@ -1,0 +1,32 @@
+.App {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      align-content: center;
+      padding: 10rem;
+}
+.card {
+      width: 20rem;
+      height: 30rem;
+      border: 2px solid #b2b2b2;
+      border-radius: 10px;
+}
+.card-qr {
+      height: 300px;
+      width: 300px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+.card-qr > img {
+      border-radius: 10px;
+      margin-top: -10px;
+      height: 250px;
+      width: 250px;
+}
+h2 {
+      margin: 10px;
+}
+p {
+      margin: 10px;
+}
