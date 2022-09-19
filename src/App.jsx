@@ -8,7 +8,7 @@ export default function App() {
           <img className="card-qr-image" src='../src/assets/image-qr-code.png' alt="qr" />
         </div>
         <div className='card-text'>
-          <h2>
+          <h2 className='h2-text'>
             Improve your front-end skills by building projects
           </h2>
           <p>Scan the QR code to visit Frontend Mentor  and take your coding  skills to nex level</p>
